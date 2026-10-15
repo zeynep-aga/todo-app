@@ -9,7 +9,7 @@ Bu proje, ReactJS ve Tailwind CSS kullanılarak geliştirilmiş, tarayıcının 
 * **Görev Güncelleme:** Mevcut görevlerin metinleri sonradan düzenlenebilir.
 * **Görev Silme:** Tamamlanan veya istenmeyen görevler listeden kaldırılabilir.
 * **Veri Kalıcılığı:** Tüm veriler `LocalStorage` üzerine kaydedilir, böylece sayfa yenilendiğinde veya tarayıcı kapatıldığında görevler kaybolmaz.
-* **Modern Tasarım:** Tailwind CSS ile tamamen duyarlı (responsive) ve şık bir arayüz sunar.
+* **Modern Tasarım:** Tailwind CSS ile tamamen duyarlı ve şık bir arayüz sunar.
 
 ## 🛠️ Kullanılan Teknolojiler
 

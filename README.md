@@ -1,16 +1,26 @@
-# React + Vite
+# 📝 React & Tailwind CSS Görev Yöneticisi (Todo App)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje, ReactJS ve Tailwind CSS kullanılarak geliştirilmiş, tarayıcının yerel depolamasını kullanan modern bir Görev Yöneticisi uygulamasıdır.
 
-Currently, two official plugins are available:
+## 🚀 Özellikler
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* **Görev Ekleme:** Yeni görevler hızlıca listeye eklenebilir.
+* **Görev Listeleme:** Eklenen tüm görevler düzenli bir şekilde görüntülenir.
+* **Görev Güncelleme:** Mevcut görevlerin metinleri sonradan düzenlenebilir.
+* **Görev Silme:** Tamamlanan veya istenmeyen görevler listeden kaldırılabilir.
+* **Veri Kalıcılığı:** Tüm veriler `LocalStorage` üzerine kaydedilir, böylece sayfa yenilendiğinde veya tarayıcı kapatıldığında görevler kaybolmaz.
+* **Modern Tasarım:** Tailwind CSS ile tamamen duyarlı (responsive) ve şık bir arayüz sunar.
 
-## React Compiler
+## 🛠️ Kullanılan Teknolojiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **Kütüphane:** React (Vite kullanılarak oluşturuldu)
+* **Stil:** Tailwind CSS v4
+* **Veri Depolama:** Tarayıcı LocalStorage
 
-## Expanding the ESLint configuration
+## 💻 Kurulum ve Çalıştırma
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
+
+1. Repoyu klonlayın:
+   ```bash
+   git clone [https://github.com/zeynep-aga/todo-app.git](https://github.com/zeynep-aga/todo-app.git)

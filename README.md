@@ -1,4 +1,4 @@
-# 📝 React & Tailwind CSS Görev Yöneticisi (Todo App)
+# 📝 React & Tailwind CSS Görev Yöneticisi
 
 Bu proje, ReactJS ve Tailwind CSS kullanılarak geliştirilmiş, tarayıcının yerel depolamasını kullanan modern bir Görev Yöneticisi uygulamasıdır.
 
